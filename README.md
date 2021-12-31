@@ -1,2 +1,2 @@
 # corsera-watson-jp
-Corsera Training
+Corsera Training AI Translator servic
